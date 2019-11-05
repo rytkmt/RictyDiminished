@@ -18,6 +18,11 @@ IPA ゴシックのグリフを含まないため、使用可能な漢字グリ�
 
 # バージョン
 
+## Version 3.2.4-Nerd-Fonts (5 November 2019)
+
+* [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) をmacのfontforge-20180801で以下のように実行し，nerd-fonts バージョンを作成
+`fontforge -script font-patcher RictyDiminished/RictyDiminished-Regular.ttf -w`
+
 ## Version 3.2.3 (4 May 2014)
 
 * [Ricty 生成スクリプト Version 3.2.3](https://github.com/yascentur/Ricty/tree/3.2.3)
